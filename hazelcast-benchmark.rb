@@ -2,7 +2,7 @@ class HazelcastBenchmark < Formula
     desc "Tool to benchmark Hazelcast IMDG member instances"
     homepage "https://github.com/mdogan/hazelcast-benchmark"
     url "https://github.com/mdogan/hazelcast-benchmark/archive/v0.3.tar.gz"
-    sha256 "317b44d5cbf253720b0773df83b5923dc0e7590ddc70665776b8dc11607e642b"
+    sha256 "7c15f7544141aa18d7ef900e82db1635cf4ba0e12d100e5ff8e8870a41a5b450"
 
     bottle :unneeded
 
