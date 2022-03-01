@@ -4,8 +4,6 @@ class HazelcastBenchmark < Formula
     url "https://github.com/mdogan/hazelcast-benchmark/archive/v0.3.tar.gz"
     sha256 "7c15f7544141aa18d7ef900e82db1635cf4ba0e12d100e5ff8e8870a41a5b450"
 
-    bottle :unneeded
-
     depends_on "go" => :build
 
     def install
